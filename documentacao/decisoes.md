@@ -22,7 +22,7 @@ Este documento registra as principais escolhas feitas no desenvolvimento do dash
 - **Salário Médio Atual**: média salarial dos colaboradores ativos, indicador do perfil de remuneração vigente.  
 - **Folha Total Mensal (em Data)**: soma de salários ativos na data — aproximação do custo mensal da folha. 
 - **Tempo Médio de Casa (Atual)**: tempo médio de vínculo, em anos, dos colaboradores ativos.  
-- **% Colaboradores acima de R$ 18 mil** → proporção de profissionais de alta remuneração, normalmente líderes ou especialistas.
+- **% Colaboradores acima de R$ 18 mil** - proporção de profissionais de alta remuneração, normalmente líderes ou especialistas.
 
 ---
 
@@ -93,3 +93,5 @@ As decisões buscaram:
 - Reproduzir um **cenário de RH realista**, com coerência entre variáveis (idade, tempo de casa, escolaridade, salário).  
 - Equilibrar **clareza visual e narrativa analítica**, aplicando boas práticas de *data storytelling* e *data-ink ratio*.  
 - Organizar o projeto de forma didática e reutilizável, destacando raciocínio de negócio e aplicação prática de conceitos em Power BI e DAX.
+
+As decisões aqui descritas sustentam as análises documentadas em [findings.md](https://github.com/vivi-alencar/powerbi-hr-analytics/blob/main/documentacao/findings.md) e refletem a integração entre design analítico e storytelling visual.”
